@@ -29,7 +29,7 @@ o Multiple regression models
 o Autoregressive and ARIMA models
 
 ## Model performance:
-<img src="https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis/blob/main/Model%20performance.png" width="1100" height="500">
+<img src="https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis/blob/main/Model%20performance.png" width="1100" height="600">
 
 ## Observations:
 • From the above accuracy measures table for all the models we can conclude that the trailing MA model with window width of 2 performed very well in capturing most of the data and could be the best model to forecast Housing starts in US

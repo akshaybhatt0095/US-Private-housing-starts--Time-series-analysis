@@ -1,7 +1,7 @@
 # US-Private-housing-starts--Time-series-analysis
 Housing starts are the number of new residential construction projects that have begun in a month. US Housing starts is a non-stationary data, and we aim to forecast the housing starts for the future periods using different approaches and find the best model for our time series.
 
-<img src="https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis/blob/main/title.png" width="1100" height="300">
+<img src="https://github.com/akshaybhatt0095/US-Private-housing-starts--Time-series-analysis/blob/main/title.png" width="1100" height="400">
 The goal of this study is to perform statistical analysis and Forecasting on the US Housing starts data which consists of monthly Housing start data from 1959 to 2017. The properties of the data are described, and basic time series techniques are applied to the data. Plots of the series, autocorrelation function and the forecast graphs are some of the graphical tools used to analyze the series. We also aim to fit different models to the data to make credible forecasts from the model. The data was downloaded from the Forecast Chart website, (https://www.forecast-chart.com/chart-housing-starts.html), from 1st January 1959 to 1st December 2017.
 A year of data is 12 months data which equals to 708 data points overall for 59 years. 
 
